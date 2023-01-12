@@ -1,0 +1,25 @@
+* {
+    font-family: calibri, arial, serif;
+    text-align: center;
+  }
+  
+  body {
+    background: darkgray;
+  }
+  
+  a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  img {
+    width: 100%;
+  }
+  
+  .container {
+    border: 1.5px solid lightgray;
+    width: 13%;
+    border-radius: 15px;
+    background: gray;
+    display: inline-block;
+  }
