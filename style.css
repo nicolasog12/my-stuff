@@ -15,6 +15,11 @@
   img {
     width: 100%;
   }
+
+  iframe {
+    border: 2px solid darkgray;
+    border-radius: 15px;
+  }
   
   .container {
     border: 1.5px solid lightgray;
